@@ -1,0 +1,13 @@
+# Ignore model weights
+yolov8n.pt
+
+# Ignore video files
+*.mp4
+
+# Ignore runtime status files
+vehicle_count.txt
+helmet_status.txt
+litter_status.txt
+
+# Python cache
+__pycache__/
